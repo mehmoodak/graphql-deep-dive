@@ -1,0 +1,16 @@
+{
+  "name": "graphql-deep-dive",
+  "version": "1.0.0",
+  "description": "An intro to using graphql on server side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "javascript",
+    "express"
+  ],
+  "author": "Mehmood Ahmad Khan",
+  "license": "ISC"
+}
